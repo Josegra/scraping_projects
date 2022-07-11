@@ -1,9 +1,9 @@
 ## Scraping projects 
 
 ​These are a collection of scrapes done in the following websites :
-  1. Idealista
-  2. IMDB
-  3. Sensacine
+  1. [Idealista](https://www.idealista.com/alquiler-viviendas/madrid/centro/malasana-universidad/)
+  2. [IMDB](https://www.imdb.com/chart/top/)
+  3. [Sensacine](https://www.sensacine.com/peliculas/mejores-peliculas/)
 
 ### Idealista 
 
